@@ -1,0 +1,19 @@
+https://docs.angularjs.org/guide
+
+GoThrough access code base
+
+Angular Features:
+
+Data binding
+DOM control structure for repeating
+From validation
+Grouping Html contents
+
+Registering Callbacks
+DOM Manipulation programatically.
+
+
+Angular 2 Videos:
+
+https://www.youtube.com/watch?v=_-CD_5YhJTA
+https://www.youtube.com/watch?v=-zW1zHqsdyc
